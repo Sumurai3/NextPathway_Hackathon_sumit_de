@@ -10,3 +10,6 @@ give your query as the input.
 
 #How to run
 1)run the Lineage_Problem_Statement.py using python3
+
+Problem Statement-2
+#Description- Zipped file contains a separate file for each function mentioned
